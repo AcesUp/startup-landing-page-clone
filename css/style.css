@@ -1,0 +1,11 @@
+/* Navigation Section */
+.top-navigation {
+    background-color: #fff;
+}
+.top-navigation > .content {
+    display: inline-block;
+    margin-left: 1.563
+    width: 970px;
+    height: 70px;
+    margin: 0 auto;
+}
